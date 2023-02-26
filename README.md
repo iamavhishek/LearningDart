@@ -1,6 +1,11 @@
 # Learning Dart
 This is a personal git repository made during learning of Dart to track the progress and also help me learn git.
 
+### System I'm using
+- OS: Debian Testing
+- IDE/Text Editor: Visual Studio Code
+
+
 ### Day 1 (2023/02/26)
 1. Print Statements and Comments
 2. Variables and String Concatenation 
