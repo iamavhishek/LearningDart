@@ -7,3 +7,5 @@ This is a personal git repository made during learning of Dart to track the prog
 3. Datatypes
 4. Type Casting
 5. GIT Commands (add, commit, push)
+---
+### Day 2 (2023/02/27)
