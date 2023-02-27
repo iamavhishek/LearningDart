@@ -2,7 +2,7 @@
 This is a personal git repository made during learning of Dart to track the progress and also help me learn git.
 
 ### System I'm using
-- OS: Debian Testing
+- OS: Debian
 - IDE/Text Editor: Visual Studio Code
 
 
