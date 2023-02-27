@@ -14,3 +14,5 @@ This is a personal git repository made during learning of Dart to track the prog
 5. GIT Commands (add, commit, push)
 ---
 ### Day 2 (2023/02/27)
+1. Some String Methods and Properties
+2. Some Numbers Methods and Properties
