@@ -16,3 +16,7 @@ This is a personal git repository made during learning of Dart to track the prog
 ### Day 2 (2023/02/27)
 1. Some String Methods and Properties
 2. Some Numbers Methods and Properties
+---
+### Day 3 (2023/02/28)
+1. Some List Methods and Properties
+2. About functions and 4 types of user defined functions
