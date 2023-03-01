@@ -20,3 +20,6 @@ This is a personal git repository made during learning of Dart to track the prog
 ### Day 3 (2023/02/28)
 1. Some List Methods and Properties
 2. About functions and 4 types of user defined functions
+
+### Day 4 (2023/03/01)
+1. Making a dumb calculator using Function
