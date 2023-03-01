@@ -23,3 +23,6 @@ This is a personal git repository made during learning of Dart to track the prog
 
 ### Day 4 (2023/03/01)
 1. Making a dumb calculator using Function
+2. If Else Statement
+3. If Else if and Else Statement
+4. Making Smart Calculator
