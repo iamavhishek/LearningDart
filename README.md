@@ -26,3 +26,7 @@ This is a personal git repository made during learning of Dart to track the prog
 2. If Else Statement
 3. If Else if and Else Statement
 4. Making Smart Calculator
+
+### Day 5 (2023/03/02)
+1. Switch Case Statement
+2. Making Smart Calculator using Switch Case
