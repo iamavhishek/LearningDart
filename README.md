@@ -31,3 +31,9 @@ This is a personal git repository made during learning of Dart to track the prog
 1. Switch Case Statement
 2. Making Smart Calculator using Switch Case
 3. While Loop using Guessing Game
+
+### Day 6(2023/03/03)
+1. Classes and Objects
+2. Constructor
+3. Function in Class
+4. Building Math Quiz program
