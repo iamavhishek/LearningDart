@@ -20,20 +20,30 @@ This is a personal git repository made during learning of Dart to track the prog
 ### Day 3 (2023/02/28)
 1. Some List Methods and Properties
 2. About functions and 4 types of user defined functions
+---
 
 ### Day 4 (2023/03/01)
 1. Making a dumb calculator using Function
 2. If Else Statement
 3. If Else if and Else Statement
 4. Making Smart Calculator
+---
 
 ### Day 5 (2023/03/02)
 1. Switch Case Statement
 2. Making Smart Calculator using Switch Case
 3. While Loop using Guessing Game
+---
 
-### Day 6(2023/03/03)
+### Day 6 (2023/03/03)
 1. Classes and Objects
 2. Constructor
 3. Function in Class
 4. Building Math Quiz program
+---
+
+### Day 7 (2023/03/05)
+1. Inheritance
+2. Multilevel Inheritance
+3. Super Keyword in Inheritance
+4. Polymorphism
