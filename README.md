@@ -47,3 +47,9 @@ This is a personal git repository made during learning of Dart to track the prog
 2. Multilevel Inheritance
 3. Super Keyword in Inheritance
 4. Polymorphism
+---
+
+### Day 8 (2023/03/06)
+1. Interface
+2. Getter and Setter
+3. Arrow Function
