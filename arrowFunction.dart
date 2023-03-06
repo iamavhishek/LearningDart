@@ -1,7 +1,7 @@
 import "dart:io";
 
 void main() {
-  stdout.write("Enter Amount: ");
+  stdout.write("Enter Principle: ");
   double p = double.parse(stdin.readLineSync()!);
   stdout.write("Enter Rate: ");
   double r = double.parse(stdin.readLineSync()!);
